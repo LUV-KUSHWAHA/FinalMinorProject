@@ -100,6 +100,12 @@ python-dotenv==1.0.1
 # ipython: better interactive Python shell (useful for debugging)
 ipython==8.24.0
 
+# Jupyter/JupyterLab kernels and notebook execution
+jupyter-client==8.8.0
+ipykernel==7.2.0
+nbclient==0.10.4
+nbformat==5.10.4
+
 # django-extensions: extra Django management commands (show_urls, shell_plus)
 django-extensions==3.2.3
 
